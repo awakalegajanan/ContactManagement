@@ -12,7 +12,8 @@ For database I choose SQL Server, considering it would store moderate data (it m
 **How to Run the application ?**
 
 To run the project follow below steps,
-1. Unzip and extract the folder
+1. Navigate to folder - ContactManagement/compressed projects/
+1. Unzip all project foolders under root folder
 2. Browse to dbcontactsScript.sql file located at root folder
 3. execute the script to SQL database
 4. Launch the solution *.sln
