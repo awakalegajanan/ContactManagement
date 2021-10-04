@@ -14,11 +14,12 @@ For database I choose SQL Server, considering it would store moderate data (it m
 To run the project follow below steps,
 1. Navigate to folder - ContactManagement/compressed projects/
 1. Unzip all projects folders under root folder
-2. Browse to dbcontactsScript.sql file located at root folder
-3. execute the script to SQL database
-4. Launch the solution *.sln
-5. Make sure we have selected two projects as startup projects
-6. Those are -
+2. Merge extracted contents for packages-1.zip and packages-2.zip to folder 'packages'. (it has splitted due to file size constraints)
+3. Browse to dbcontactsScript.sql file located at root folder
+4. execute the script to SQL database
+5. Launch the solution *.sln
+6. Make sure we have selected two projects as startup projects
+7. Those are -
  
   a. OnionContactManagementSolution.WebAPI
   
