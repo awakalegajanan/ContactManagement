@@ -26,7 +26,7 @@ To run the project follow below steps,
   
   b. OnionContactManagementSolution.UI
   
-7. Once above set up is done, run the project
-8. It will open, one web API project with swagger UI
-9. and UI project, where we will be able to do - add new contact, edit or DeActivate the selected contact.
+9. Once above set up is done, run the project
+10. It will open, one web API project with swagger UI
+11. and UI project, where we will be able to do - add new contact, edit or DeActivate the selected contact.
 
