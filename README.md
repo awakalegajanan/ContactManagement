@@ -18,8 +18,9 @@ To run the project follow below steps,
 3. Browse to dbcontactsScript.sql file located at root folder
 4. execute the script to SQL database
 5. Launch the solution *.sln
-6. Make sure we have selected two projects as startup projects
-7. Those are -
+6. Change database connection string to select the above database (as initially the database was created with code first EF core and later same is used and data seeding logic have not included in the project).  
+7. Make sure we have selected two projects as startup projects
+8. Those are -
  
   a. OnionContactManagementSolution.WebAPI
   
